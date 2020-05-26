@@ -1,0 +1,12 @@
+Data - loading, understanding
+EDA
+Data prep for modelling - Scaling, Outlier detection
+Modelling 
+1) Basic modelling with prepared Data, Imbalanced data - importance of resampling
+2) Undersampling, Oversampling - basic models
+3) Cross validation - wrong way
+4) Cross validation - right way - Undersampling
+5) Cross validation - right way - Oversampling
+6) Hyperparameter tuning + Best fit 
+7) Conclusion - Learninng curve, ROC curve, confusion matrices, Classification report
+
